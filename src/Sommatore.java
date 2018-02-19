@@ -18,10 +18,7 @@ public class Sommatore {
 	}
 	public static int somma1000(int x)
 	{
-		for (int i = 0; i < 1000; i++) {
-			x++;
-		}
-		return x;
+		return x+1000;
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
